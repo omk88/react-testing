@@ -30,14 +30,14 @@
     },
     {
       "id": "3",
-      "title": "React.js Dev",
+      "title": "React.js Developer",
       "type": "Full-Time",
       "location": "Brooklyn, NY",
       "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
       "salary": "$70K - $80K",
       "company": {
         "name": "Dolor Cloud",
-        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "description": "Dolor Cloud",
         "contactEmail": "contact@dolorsitamet.com",
         "contactPhone": "555-555-5555"
       }
@@ -46,12 +46,12 @@
       "id": "4",
       "title": "React Front-End Developer",
       "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
       "location": "Pheonix, AZ",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
       "salary": "$60K - $70K",
       "company": {
         "name": "Alpha Elite",
-        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "description": "Alpha Elite",
         "contactEmail": "contact@adipisicingelit.com",
         "contactPhone": "555-555-5555"
       }
@@ -83,6 +83,202 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "title": "asdsad",
+      "type": "Full-Time",
+      "location": "adaa",
+      "description": "adsad",
+      "salary": "Under $50K",
+      "company": {
+        "name": "ads",
+        "description": "asd",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "bMPcEF7"
+    },
+    {
+      "title": "ads",
+      "type": "Full-Time",
+      "location": "ads",
+      "description": "asd",
+      "salary": "Under $50K",
+      "company": {
+        "name": "asd",
+        "description": "asd",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "91a1-pw"
+    },
+    {
+      "title": "sad",
+      "type": "Full-Time",
+      "location": "ads",
+      "description": "sad",
+      "salary": "Under $50K",
+      "company": {
+        "name": "ads",
+        "description": "asd",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "hSFrCbz"
+    },
+    {
+      "title": "dasdsa",
+      "type": "Full-Time",
+      "location": "asd",
+      "description": "asd",
+      "salary": "Under $50K",
+      "company": {
+        "name": "asd",
+        "description": "asd",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "XoO66vv"
+    },
+    {
+      "title": "asd",
+      "type": "Full-Time",
+      "location": "ads",
+      "description": "asd",
+      "salary": "Under $50K",
+      "company": {
+        "name": "asd",
+        "description": "asd",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "tBJls70"
+    },
+    {
+      "title": "asd",
+      "type": "Full-Time",
+      "location": "asd",
+      "description": "asd",
+      "salary": "Under $50K",
+      "company": {
+        "name": "asd",
+        "description": "asd",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "nmGAsRC"
+    },
+    {
+      "title": "ads",
+      "type": "Full-Time",
+      "location": "asd",
+      "description": "ads",
+      "salary": "Under $50K",
+      "company": {
+        "name": "asd",
+        "description": "asd",
+        "contactEmail": "asdasd@gaaga",
+        "contactPhone": "07523959142"
+      },
+      "id": "p33eSzy"
+    },
+    {
+      "title": "asd",
+      "type": "Full-Time",
+      "location": "ad",
+      "description": "ads",
+      "salary": "Under $50K",
+      "company": {
+        "name": "asd",
+        "description": "asd",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "WrkuwKa"
+    },
+    {
+      "title": "asd",
+      "type": "Full-Time",
+      "location": "asd",
+      "description": "asd",
+      "salary": "Under $50K",
+      "company": {
+        "name": "asd",
+        "description": "sad",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "JMHAm3T"
+    },
+    {
+      "title": "asd",
+      "type": "Full-Time",
+      "location": "asd",
+      "description": "ads",
+      "salary": "Under $50K",
+      "company": {
+        "name": "asd",
+        "description": "asd",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "kRSujLk"
+    },
+    {
+      "title": "asd",
+      "type": "Full-Time",
+      "location": "asd",
+      "description": "asd",
+      "salary": "Under $50K",
+      "company": {
+        "name": "asd",
+        "description": "asd",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "6FiYoDg"
+    },
+    {
+      "title": "asd",
+      "type": "Full-Time",
+      "location": "asd",
+      "description": "asd",
+      "salary": "Under $50K",
+      "company": {
+        "name": "ad",
+        "description": "asd",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "Eic0Txw"
+    },
+    {
+      "title": "ccscs",
+      "type": "Full-Time",
+      "location": "scccscscscs",
+      "description": "sccsscsccs",
+      "salary": "Under $50K",
+      "company": {
+        "name": "scsccscssc",
+        "description": "scsccscss",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "CCXPZaM"
+    },
+    {
+      "title": "asd",
+      "type": "Full-Time",
+      "location": "asd",
+      "description": "asd",
+      "salary": "Under $50K",
+      "company": {
+        "name": "asd",
+        "description": "ads",
+        "contactEmail": "emmanuel.learmount@gmail.com",
+        "contactPhone": "07523959142"
+      },
+      "id": "OIlaNGd"
     }
   ]
 }
